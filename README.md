@@ -37,4 +37,4 @@ Enter a URL in the text box
 ![URL-Shortner URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image2.png)
 
 After submiting the form, the shortned URL will be generated.
-![URL-Shortner Shortned-URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image3.png)
+![URL-Shortner Shortned-URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/images3.png)
