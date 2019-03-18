@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### Navigate to the Directory
-Navigate to the Surukkam Directory by following this command
+Navigate to the shrinkurl Directory by following this command
 ```
 cd shrinkurl
 ```
@@ -30,11 +30,15 @@ python manage.py runserver 8000
 
 ### Open the WebApp in Browser
 Open [http://localhost:8000/home](http://localhost:8000/home)
-![URL-Shortner Home Page](https://github.com/harimau99/Url-Short/blob/master/Images/image1.png)
+![Short URL Home Page](https://github.com/harimau99/Url-Short/blob/master/Images/image1.png)
 
 ### Shorten URL
 Enter a URL in the text box
-![URL-Shortner URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image2.png)
+![Short URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image2.png)
 
 After submiting the form, the shortned URL will be generated.
-![URL-Shortner Shortned-URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/images3.png)
+![Short URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image3.png)
+
+### Administrator in action
+Open [http://localhost:8000/admin](http://localhost:8000/admin)
+![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin.png)
