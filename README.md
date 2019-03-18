@@ -37,10 +37,11 @@ Enter a URL in the text box
 ![Short URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image2.png)
 
 After submiting the form, the shortned URL will be generated.
-![Short URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/imageshort.png)
+![Short URL Preview](https://github.com/harimau99/Url-Short/blob/master/Images/image3.png)
 
 ### Administrator in action
 Open [http://localhost:8000/admin](http://localhost:8000/admin)
-* Username : test
-* Password : plsplspls1
+Username : test
+Password : plsplspls1
 ![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin.png)
+![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin2.png)
