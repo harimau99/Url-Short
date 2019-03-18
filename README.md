@@ -41,4 +41,6 @@ After submiting the form, the shortned URL will be generated.
 
 ### Administrator in action
 Open [http://localhost:8000/admin](http://localhost:8000/admin)
+Username : test
+Password : plsplspls1
 ![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin.png)
