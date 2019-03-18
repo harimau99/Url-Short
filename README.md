@@ -43,5 +43,5 @@ After submiting the form, the shortned URL will be generated.
 Open [http://localhost:8000/admin](http://localhost:8000/admin)
 Username : test
 Password : plsplspls1
-![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin.png)
 ![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin2.png)
+![Short URL ](https://github.com/harimau99/Url-Short/blob/master/Images/admin.png)
